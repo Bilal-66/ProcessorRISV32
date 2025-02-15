@@ -1,14 +1,20 @@
-# RISC-V 32-bit Processor (Pipelined & Normal) in GDigital
+# RISC-V 32-bit Processor (Pipelined & Normal) in Digital
 
 ## Overview
-This project implements a 32-bit RISC-V processor using GDigital. It includes both a standard (non-pipelined) version and a pipelined version. The design consists of various components such as registers, ALU, control units, and memory.
+This project implements a 32-bit RISC-V processor using Digital. It includes both a standard (non-pipelined) version and a pipelined version. The design consists of various components such as registers, ALU, control units, and memory.
 
 ## Getting Started
 ### Requirements
-- [GDigital](https://github.com/...) (Download and install GDigital to open the files)
+- **Digital**(https://github.com/hneemann/Digital) (Download and install Digital to open the files)
+- 
+**RV32 PIPELINE**
 
+
+- ![RV32PIPELINE](RV32PIPELINE.jpg)
+**RV32**
+  ![RV32](RV32.jpg)
 ### Opening the Project
-1. Open **GDigital**.
+1. Open **Digital**.
 2. Navigate to the folder containing all the `.dig` files.
 3. Open the main circuit file (`rv32.dig` for the standard version or `rv32pipeline.dig` for the pipelined version).
 
