@@ -6,6 +6,7 @@ This project implements a 32-bit RISC-V processor using GDigital. It includes bo
 ## Getting Started
 ### Requirements
 - [GDigital](https://github.com/...) (Download and install GDigital to open the files)
+![Uploading RV32PIPELINE.jpg…]()
 
 ### Opening the Project
 1. Open **GDigital**.
