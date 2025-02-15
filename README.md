@@ -5,10 +5,11 @@ This project implements a 32-bit RISC-V processor using Digital. It includes bot
 
 ## Getting Started
 ### Requirements
-- Digital](https://github.com/hneemann/Digital) (Download and install Digital to open the files)
-
-![Processeur](RV32PIPELINE.jpg)
-
+- **Digital**(https://github.com/hneemann/Digital) (Download and install Digital to open the files)
+**RV32 PIPELINE**
+- !(RV32PIPELINE.jpg)
+**RV32**
+  !(RV32.jpg)
 ### Opening the Project
 1. Open **Digital**.
 2. Navigate to the folder containing all the `.dig` files.
