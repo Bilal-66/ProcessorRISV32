@@ -1,1 +1,1 @@
-# ProcessorRISV32
+# ProcessorRISV32 PIPELINE AND NORMAL
